@@ -1,7 +1,6 @@
 package builder;
-
 public class Person {
- private String firstName;
+    private String firstName;
     private String middleName;
     private String lastName;
     private Integer age;
